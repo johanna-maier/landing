@@ -1,0 +1,10 @@
+.icon {
+  color: #1fdd88;
+  list-style: none;
+}
+
+.list-item-inline {
+  display: inline-block;
+  margin: 10px;
+  font-size: 30px;
+}
